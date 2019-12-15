@@ -1,4 +1,4 @@
-# MINI PROYEK PROGLAN
+# PROYEK AKHIR PROGLAN
 ## INFO
 No. Kelompok : 6
 
